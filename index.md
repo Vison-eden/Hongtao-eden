@@ -28,11 +28,8 @@ I'm a third-year Ph.D. candidate in the intelligent informatics laboratory, at K
 {% include_relative _includes/current.md %}
 
 <style>
-  #clustrmaps-container {
-    position: relative;
-  }
   #clustrmaps-widget {
-    position: absolute;
+    position: fixed;
     bottom: 30px;
     right: 10px;
     z-index: 1000;
@@ -44,8 +41,7 @@ I'm a third-year Ph.D. candidate in the intelligent informatics laboratory, at K
     height: 100%;
   }
 </style>
-<div id="clustrmaps-container">
-  <div id="clustrmaps-widget">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=bjzM2SBx-uJ0fKBQm6uBVaV17FQYGmOHUCxaIbTpSlc"></script>
-  </div>
+
+<div id="clustrmaps-widget">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=bjzM2SBx-uJ0fKBQm6uBVaV17FQYGmOHUCxaIbTpSlc"></script>
 </div>
