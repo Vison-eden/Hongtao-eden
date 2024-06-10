@@ -8,7 +8,7 @@ main:
     pages: 3429
     pdf: https://doi.org/10.3390/app14083429
     notes: Journal
-    image: ./assets/img/Graphical abstract.tiff
+    image: ./assets/img/p1.png
 
   - title: "Brain-like illusion produced by Skye’s Oblique Grating in deep neural networks"
     authors: Hongtao Zhang, Shinichi Yoshida, and Zhen Li
@@ -19,6 +19,7 @@ main:
     pages: e0299083
     pdf: https://doi.org/10.1371/journal.pone.0299083
     notes: Journal
+    image: ./assets/img/p2.png
     
   - title: "Decoding Illusion Perception: A Comparative Analysis of Deep Neural Networks in the Müller-Lyer Illusion"
     authors: Hongtao Zhang, Shinichi Yoshida, and Zhen Li
@@ -27,14 +28,16 @@ main:
     pages: 1898-1903
     pdf: https://doi.org/10.1109/SMC.2023.9283444
     notes: Conference
-
+    image: ./assets/img/p3.png
+    
   - title: "Müller-Lyer illusion is Replicated by Higher Layer of Pre-trained Deep Neural Network for Object Recognition"
     authors: Hongtao Zhang, Zhen Li, and Shinichi Yoshida
     conference: 2022 The 10th International Symposium on Computational Intelligence and Industrial Applications (ISCIIA2022)
     year: 2022
     pdf: https://isciia2022.bit.edu.cn/docs/2023-01/6bb3021ea4e9469b958bf7fa21068bfe.pdf
     notes: Conference
-
+    image: ./assets/img/p4.png
+    
   - title: "3D MRI Reconstruction Based on 2D Generative Adversarial Network Super-Resolution"
     authors: Hongtao Zhang, Yuki Shinomiya, and Shinichi Yoshida
     journal: Sensors
@@ -44,7 +47,8 @@ main:
     pages: 2978
     pdf: https://doi.org/10.1109/SMC42975.2020.9283444
     notes: Journal
-
+    image: ./assets/img/p5.png
+    
   - title: "3D brain MRI reconstruction based on 2D super-resolution technology"
     authors: Hongtao Zhang, Yuki Shinomiya, and Shinichi Yoshida
     conference: 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
@@ -52,3 +56,5 @@ main:
     pages: 18-23
     pdf: https://doi.org/10.1109/SMC.2020.9283444
     notes: Conference
+    image: ./assets/img/p61.png
+    
