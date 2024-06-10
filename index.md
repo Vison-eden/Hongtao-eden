@@ -28,19 +28,24 @@ I'm a third-year Ph.D. candidate in the intelligent informatics laboratory, at K
 {% include_relative _includes/current.md %}
 
 <style>
+  #clustrmaps-container {
+    position: relative;
+  }
   #clustrmaps-widget {
-    position: fixed;
+    position: absolute;
     bottom: 30px;
     right: 10px;
     z-index: 1000;
-    width: 300px; /* 调整宽度以适应页面 */
-    height: 300px; /* 调整高度以适应页面 */
+    width: 250px; /* 调整宽度以适应页面 */
+    height: 250px; /* 调整高度以适应页面 */
   }
   #clustrmaps-widget iframe {
     width: 100%;
     height: 100%;
   }
 </style>
-<div id="clustrmaps-widget">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=bjzM2SBx-uJ0fKBQm6uBVaV17FQYGmOHUCxaIbTpSlc"></script>
+<div id="clustrmaps-container">
+  <div id="clustrmaps-widget">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=bjzM2SBx-uJ0fKBQm6uBVaV17FQYGmOHUCxaIbTpSlc"></script>
+  </div>
 </div>
