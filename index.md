@@ -30,7 +30,7 @@ I'm a third-year Ph.D. candidate in the intelligent informatics laboratory, at K
 <style>
   #clustrmaps-widget {
     position: absolute;
-    bottom: 20px;
+    bottom: 10px;
     right: 30px;
     z-index: 1000;
     width: 250px; /* 调整宽度以适应页面 */
