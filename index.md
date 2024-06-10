@@ -37,8 +37,8 @@ I'm a third-year Ph.D. candidate in the intelligent informatics laboratory, at K
   }
   #clustrmaps-widget {
     position: absolute;
-    bottom: 2px;
-    right: -20px;
+    bottom: -30px;
+    right: -90px;
     z-index: 1000;
     width: 250px; /* Adjust width as necessary */
     height: 250px; /* Adjust height as necessary */
