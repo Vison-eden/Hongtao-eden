@@ -1,22 +1,52 @@
 main:
+  - title: "Exploring Deep Neural Networks in Simulating Human Vision through Five Optical Illusions"
+    authors: Hongtao Zhang and Shinichi Yoshida
+    journal: Applied Sciences
+    volume: 14
+    issue: 8
+    year: 2024
+    pages: 3429
+    pdf: https://doi.org/10.3390/app14083429
+    notes: Journal
+    
+  - title: "Brain-like illusion produced by Skye’s Oblique Grating in deep neural networks"
+    authors: Hongtao Zhang, Shinichi Yoshida, and Zhen Li
+    journal: PloS ONE
+    volume: 19
+    issue: 2
+    year: 2024
+    pages: e0299083
+    pdf: https://doi.org/10.1371/journal.pone.0299083
+    notes: Journal
+    
+  - title: "Decoding Illusion Perception: A Comparative Analysis of Deep Neural Networks in the Müller-Lyer Illusion"
+    authors: Hongtao Zhang, Shinichi Yoshida, and Zhen Li
+    conference: 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+    year: 2023
+    pages: 1898-1903
+    pdf: https://doi.org/10.1109/SMC.2023.9283444
+    notes: Conference
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Müller-Lyer illusion is Replicated by Higher Layer of Pre-trained Deep Neural Network for Object Recognition"
+    authors: Hongtao Zhang, Zhen Li, and Shinichi Yoshida
+    conference: 2022 The 10th International Symposium on Computational Intelligence and Industrial Applications (ISCIIA2022)
+    year: 2022
+    notes: Conference
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "3D MRI Reconstruction Based on 2D Generative Adversarial Network Super-Resolution"
+    authors: Hongtao Zhang, Yuki Shinomiya, and Shinichi Yoshida
+    journal: Sensors
+    volume: 21
+    issue: 9
+    year: 2021
+    pages: 2978
+    pdf: https://doi.org/10.1109/SMC42975.2020.9283444
+    notes: Journal
+
+  - title: "3D brain MRI reconstruction based on 2D super-resolution technology"
+    authors: Hongtao Zhang, Yuki Shinomiya, and Shinichi Yoshida
+    conference: 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+    year: 2020
+    pages: 18-23
+    pdf: https://doi.org/10.1109/SMC.2020.9283444
+    notes: Conference
