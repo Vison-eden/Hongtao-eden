@@ -27,6 +27,4 @@ I'm a third-year Ph.D. candidate in the intelligent informatics laboratory, at K
 
 {% include_relative _includes/current.md %}
 
-<div id="clustrmaps-container">
-        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Kc4kbw7G6_tZ2qrx8LQSxscrbJCYiq03i_g-Sflo5sg"></script>
-</div>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=bjzM2SBx-uJ0fKBQm6uBVaV17FQYGmOHUCxaIbTpSlc"></script>
