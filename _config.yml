@@ -2,7 +2,7 @@
 title: Hongtao Zhang
 position: Third-year Ph.D. Candidate
 affiliation: Kochi Univeristy of Technology
-email: 258004n@gs.kochi-tech.ac.jp
+email: 258004n(at)gs.kochi-tech.ac.jp
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -13,7 +13,6 @@ canonical: https://vison-eden.github.io/Hongtao-eden/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.co.jp/citations?user=jQvs2JIAAAAJ&hl=en
-cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/Vison-eden
 researchgate: https://www.researchgate.net/profile/Hongtao-Zhang-33
 
