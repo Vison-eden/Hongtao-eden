@@ -28,11 +28,8 @@ I'm a third-year Ph.D. candidate in the intelligent informatics laboratory, at K
 {% include_relative _includes/current.md %}
 
 <style>
-  body {
-    position: relative;
-  }
   #clustrmaps-widget {
-    position: absolute;
+    position: fixed;
     bottom: 10px;
     right: 10px;
     z-index: 1000;
