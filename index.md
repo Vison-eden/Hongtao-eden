@@ -4,12 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Third-year Ph.D. candidate with a passion for exploring innovative research. Adept at discussing and implementing research ideas, demonstrating focus and collaborative problem-solving within lab teams. Aspires to contribute to and advance the understanding of the brain's visual cognition and neural network’s biological explainability. Also, interested in AI applications especially in the medical field and biological vision.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** Image Recognition, Super-Resolution, Deep Neural Networks
+- **Experimental Psychology:** Optical Illusion, Visual Illusion
+- **NeuroScience:** MRI, fMRI, Retinotopy, Ventral Pathway
+- **AI healthcare:** Medical Multimodal Model, Brain diagnosis, Healthcare
+
 
 ## News
 
