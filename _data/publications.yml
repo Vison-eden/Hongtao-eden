@@ -31,6 +31,7 @@ main:
     authors: Hongtao Zhang, Zhen Li, and Shinichi Yoshida
     conference: 2022 The 10th International Symposium on Computational Intelligence and Industrial Applications (ISCIIA2022)
     year: 2022
+    pdf: https://isciia2022.bit.edu.cn/docs/2023-01/6bb3021ea4e9469b958bf7fa21068bfe.pdf
     notes: Conference
 
   - title: "3D MRI Reconstruction Based on 2D Generative Adversarial Network Super-Resolution"
