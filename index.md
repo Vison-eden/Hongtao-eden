@@ -29,9 +29,9 @@ I'm a third-year Ph.D. candidate in the intelligent informatics laboratory, at K
 
 <style>
   #clustrmaps-widget {
-    position: fixed;
-    bottom: 30px;
-    right: 10px;
+    position: absolute;
+    bottom: 10px;
+    right: 30px;
     z-index: 1000;
     width: 250px; /* 调整宽度以适应页面 */
     height: 250px; /* 调整高度以适应页面 */
