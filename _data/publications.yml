@@ -8,7 +8,8 @@ main:
     pages: 3429
     pdf: https://doi.org/10.3390/app14083429
     notes: Journal
-    
+    image: ./assets/img/Graphical abstract.tiff
+
   - title: "Brain-like illusion produced by Skye’s Oblique Grating in deep neural networks"
     authors: Hongtao Zhang, Shinichi Yoshida, and Zhen Li
     journal: PloS ONE
