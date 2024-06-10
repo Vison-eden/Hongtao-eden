@@ -26,5 +26,5 @@ I'm a third-year Ph.D. candidate in the intelligent informatics laboratory, at K
 {% include_relative _includes/services.md %}
 
 <section id="current_activity">
-  {% include_relative current_activity.md %}
+  {% include_relative _includes/current.md %}
 </section>
