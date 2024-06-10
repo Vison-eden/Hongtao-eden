@@ -26,7 +26,7 @@ main:
     conference: 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
     year: 2023
     pages: 1898-1903
-    pdf: https://doi.org/10.1109/SMC.2023.9283444
+    pdf: https://doi.org/10.1109/SMC53992.2023.10394255
     notes: Conference
     image: ./assets/img/p3.png
     
@@ -45,7 +45,7 @@ main:
     issue: 9
     year: 2021
     pages: 2978
-    pdf: https://doi.org/10.1109/SMC42975.2020.9283444
+    pdf: https://doi.org/10.3390/s21092978 
     notes: Journal
     image: ./assets/img/p5.png
     
@@ -54,7 +54,7 @@ main:
     conference: 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
     year: 2020
     pages: 18-23
-    pdf: https://doi.org/10.1109/SMC.2020.9283444
+    pdf: https://doi.org/10.1109/SMC42975.2020.9283444
     notes: Conference
     image: ./assets/img/p6.png
     
