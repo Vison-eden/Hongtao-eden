@@ -21,9 +21,10 @@
   <link rel="stylesheet" href="./assets/css/publications.css">
 
   <style>
-    .profile-avatar {
-        width: 300px; /* 设置你需要的宽度，可以调整大小 */
+    #profile-avatar {
+        width: 280px; /* 设置你需要的宽度，可以调整大小 */
         height: 300px; /* 设置你需要的高度，可以调整大小 */
+        object-fit: cover; /* 确保图片不会变形 */
     }
 
     .mo {
@@ -99,7 +100,7 @@
   <div class="wrapper" style="margin-top: 70px;"> <!-- Adjust margin-top to account for the fixed navbar -->
     <header>
       {% if site.avatar %}
-      <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" class="profile-avatar" /></a>
+      <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" id="profile-avatar" /></a>
       {% endif %}
 
       <h1>{{ site.title }}</h1>
