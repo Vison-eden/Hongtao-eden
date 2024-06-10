@@ -4,7 +4,6 @@
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
-
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -13,13 +12,21 @@
     {% endif %}
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
+    {% elsif link.journal %}
+    <abbr class="badge">{{ link.journal }}</abbr>
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
+      <div class="periodical"><em>
+      {% if link.conference %}
+      {{ link.conference }}
+      {% elsif link.journal %}
+      {{ link.journal }} 
+      {{ link.volume }}, no. {{ link.issue }} ({{ link.year }}): {{ link.pages }}
+      {% endif %}
+      </em></div>
     <div class="links">
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -45,9 +52,7 @@
 </li>
 
 <br>
-
 {% endfor %}
 
 </ol>
 </div>
-
