@@ -30,11 +30,11 @@ I'm a third-year Ph.D. candidate in the intelligent informatics laboratory, at K
 <style>
   #clustrmaps-widget {
     position: fixed;
-    bottom: 20px;
-    right: 20px;
+    bottom: 30px;
+    right: 10px;
     z-index: 1000;
-    width: 150px; /* 调整宽度以适应页面 */
-    height: 150px; /* 调整高度以适应页面 */
+    width: 300px; /* 调整宽度以适应页面 */
+    height: 300px; /* 调整高度以适应页面 */
   }
   #clustrmaps-widget iframe {
     width: 100%;
