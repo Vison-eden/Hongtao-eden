@@ -2,4 +2,4 @@
 
 <!-- main content -->
 
-Expecting to graduate this September ,2024.  Now I am looking for the postdoctoral position.
+Expecting to graduate this September,2024. Now I am looking for the postdoctoral position.
