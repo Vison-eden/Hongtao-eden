@@ -10,7 +10,7 @@ I'm a third-year Ph.D. candidate in the intelligent informatics laboratory, at K
 
 - **Computer Vision:** Image Recognition, Super-Resolution, Deep Neural Networks
 - **Experimental Psychology:** Optical Illusion, Visual Illusion
-- **NeuroScience:** MRI, fMRI, Retinotopy, Ventral Pathway
+- **Neuroscience:** MRI, fMRI, Retinotopy, Ventral Pathway
 - **AI healthcare:** Medical Multimodal Model, Brain Disease Diagnosis, Healthcare
 
 
