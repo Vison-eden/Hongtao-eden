@@ -1,6 +1,6 @@
-## Current Activity
+## Personal 
 
 <!-- main content -->
-- Currently, I have three papers under review.
-- Expecting to graduate in September 2024.
-- I am actively seeking postdoctoral positions.
+- It always happend.
+- 只是想找博后继续研究，可惜事已愿违。
+- 保持素质和礼貌，起码自己一直保持。
