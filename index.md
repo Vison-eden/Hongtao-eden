@@ -15,7 +15,7 @@ I'm a third-year Ph.D. candidate in the intelligent informatics laboratory, at K
 
 
 ## News
-
+- **[Aug. 2024]** Paper was accepted by ICONIP2024.
 - **[Mar. 2024]** Paper was accepted by Applied Science.
 - **[Feb. 2024]** Paper was accpeted by PLOS ONE. 
 - **[Oct. 2023]** We attended the IEEE SMC2023 conference in Hawaii.
