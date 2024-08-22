@@ -1,5 +1,5 @@
 ## Current 
 
 <!-- main content -->
-- Three papers are under review.
+- Two papers are under review.
 - Graduation Ceremony.
