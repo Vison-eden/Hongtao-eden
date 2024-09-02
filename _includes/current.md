@@ -1,5 +1,5 @@
 ## Current 
 
 <!-- main content -->
-- Two papers are under review.
-- Graduation Ceremony.
+- Trip
+- Postdoc？Funny excuse of no-reply. Wow, busy.
