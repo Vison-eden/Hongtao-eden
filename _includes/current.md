@@ -1,5 +1,5 @@
 ## Current 
 
 <!-- main content -->
-- Trip
-- Postdoc？Funny excuse of no-reply. Wow, busy.
+- Two papers are taking under review.
+- Ph.D. Degree.
