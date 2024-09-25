@@ -4,7 +4,12 @@ layout: homepage
 
 ## About Me
 
-I'm a third-year Ph.D. candidate in the intelligent informatics laboratory, at Kochi University of Technology. I have finished my master's degree at Kochi University of Technology while gaining the special student project scholarship for doctral study. I aspire to contribute to and advance the understanding of the brain's visual cognition and neural network’s biological explainability. I am also interested in AI applications, especially in the medical and biological vision fields.
+I am a Ph.D. graduate from the Intelligent Informatics Laboratory at Kochi University of Technology, where I completed both my master's and doctoral studies under the guidance of Professor Shinichi Yoshida ([profile link](https://www.kochi-tech.ac.jp/profile/en/yoshida-shinichi.html)). During my academic journey, I was awarded the Special Scholarship Program (SSP) for doctoral study.
+
+Before pursuing graduate studies, I earned my bachelor's degree from Zhuhai College of Jilin University, working under the supervision of Professor Yanchun Liang ([profile link](https://ieeexplore.ieee.org/author/37401143200)).
+
+My research focuses on advancing the understanding of visual cognition in the brain and exploring the biological explainability of neural networks. I aim to bridge the gap between artificial intelligence and human cognition, particularly in the areas of medical and biological vision. My interests also include applying AI technologies to solve challenges in healthcare and biological sciences.
+
 
 ## Research Interests
 
