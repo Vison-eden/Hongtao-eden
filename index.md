@@ -20,9 +20,10 @@ My research focuses on advancing the understanding of visual cognition in the br
 
 
 ## News
+- **[Oct. 2024]** Paper was accepted by IEEE ACCESS.
 - **[Aug. 2024]** Paper was accepted by ICONIP2024 Conference.
 - **[Mar. 2024]** Paper was accepted by Applied Science.
-- **[Feb. 2024]** Paper was accpeted by PLOS ONE. 
+- **[Feb. 2024]** Paper was accepted by PLOS ONE. 
 - **[Oct. 2023]** We attended the IEEE SMC2023 Conference in Hawaii.
 - **[Jun. 2022]** Best paper award by ISCIIA2022 in Beijing.
 
