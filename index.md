@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. graduate from the Intelligent Informatics Laboratory at Kochi University of Technology, where I completed both my master's and doctoral studies under the guidance of Professor Shinichi Yoshida ([profile link](https://www.kochi-tech.ac.jp/profile/en/yoshida-shinichi.html)). During my academic journey, I was awarded the Special Scholarship Program (SSP) for doctoral study.
+I am a Ph.D. graduate from the Intelligent Informatics Laboratory at Kochi University of Technology, where I completed my master's and doctoral studies under the guidance of Professor Shinichi Yoshida ([profile link](https://www.kochi-tech.ac.jp/profile/en/yoshida-shinichi.html)). During my academic journey, I was awarded the Special Scholarship Program (SSP) for doctoral study.
 
 Before pursuing graduate studies, I earned my bachelor's degree from Zhuhai College of Jilin University, working under the supervision of Professor Yanchun Liang ([profile link](https://ieeexplore.ieee.org/author/37401143200)).
 
-My research focuses on advancing the understanding of visual cognition in the brain and exploring the biological explainability of neural networks. I aim to bridge the gap between artificial intelligence and human cognition, particularly in the areas of medical and biological vision. My interests also include applying AI technologies to solve challenges in healthcare and biological sciences.
+My research focuses on advancing the understanding of visual cognition in the brain and exploring the biological explainability of neural networks. I aim to bridge the gap between artificial intelligence and human cognition, particularly in medical and biological vision. My interests also include applying AI technologies to solve challenges in healthcare and biological sciences.
 
 
 ## Research Interests
@@ -20,7 +20,7 @@ My research focuses on advancing the understanding of visual cognition in the br
 
 
 ## News
-- **[Oct. 2024]** Paper was accepted by IEEE ACCESS.
+- **[Oct. 2024]** Paper was accepted by IEEE Access.
 - **[Aug. 2024]** Paper was accepted by ICONIP2024 Conference.
 - **[Mar. 2024]** Paper was accepted by Applied Science.
 - **[Feb. 2024]** Paper was accepted by PLOS ONE. 
