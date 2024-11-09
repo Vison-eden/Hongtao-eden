@@ -1,4 +1,15 @@
 main:
+  - title: "Assessing Brain-like Characteristics of DNNs with Spatiotemporal Features: A Study Based on the Müller-Lyer Illusion"
+    authors: Hongtao Zhang， Kiminori Matsuzaki， Shinichi Yoshida
+    journal: IEEE Access
+    volume: 12
+    year: 2024
+    pages: 147192-147208
+    pdf: https://doi.org/10.1109/ACCESS.2024.3475478
+    notes: Journal
+    image: ./assets/img/p7.png
+  
+  
   - title: "Exploring Deep Neural Networks in Simulating Human Vision through Five Optical Illusions"
     authors: Hongtao Zhang and Shinichi Yoshida
     journal: Applied Sciences
@@ -21,22 +32,6 @@ main:
     notes: Journal
     image: ./assets/img/p2.png
     
-  - title: "Decoding Illusion Perception: A Comparative Analysis of Deep Neural Networks in the Müller-Lyer Illusion"
-    authors: Hongtao Zhang, Shinichi Yoshida, and Zhen Li
-    conference: 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
-    year: 2023
-    pages: 1898-1903
-    pdf: https://doi.org/10.1109/SMC53992.2023.10394255
-    notes: Conference
-    image: ./assets/img/p3.png
-    
-  - title: "Müller-Lyer illusion is Replicated by Higher Layer of Pre-trained Deep Neural Network for Object Recognition"
-    authors: Hongtao Zhang, Zhen Li, and Shinichi Yoshida
-    conference: 2022 The 10th International Symposium on Computational Intelligence and Industrial Applications (ISCIIA2022)
-    year: 2022
-    pdf: https://isciia2022.bit.edu.cn/docs/2023-01/6bb3021ea4e9469b958bf7fa21068bfe.pdf
-    notes: Conference
-    image: ./assets/img/p4.png
     
   - title: "3D MRI Reconstruction Based on 2D Generative Adversarial Network Super-Resolution"
     authors: Hongtao Zhang, Yuki Shinomiya, and Shinichi Yoshida
@@ -48,13 +43,4 @@ main:
     pdf: https://doi.org/10.3390/s21092978 
     notes: Journal
     image: ./assets/img/p5.png
-    
-  - title: "3D brain MRI reconstruction based on 2D super-resolution technology"
-    authors: Hongtao Zhang, Yuki Shinomiya, and Shinichi Yoshida
-    conference: 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
-    year: 2020
-    pages: 18-23
-    pdf: https://doi.org/10.1109/SMC42975.2020.9283444
-    notes: Conference
-    image: ./assets/img/p6.png
     
