@@ -4,11 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. graduate from the Intelligent Informatics Laboratory at Kochi University of Technology, where I completed my master's and doctoral studies under the guidance of Professor Shinichi Yoshida ([profile link](https://www.kochi-tech.ac.jp/profile/en/yoshida-shinichi.html)). During my academic journey, I was awarded the Special Scholarship Program (SSP) for doctoral study.
+I am a Ph.D. graduate from the Intelligent Informatics Laboratory at Kochi University of Technology, where I completed my master's and doctoral studies under the guidance of Professor Shinichi Yoshida ([profile link](https://www.kochi-tech.ac.jp/profile/en/yoshida-shinichi.html)). I was awarded the Special Scholarship Program (SSP) for doctoral study during my academic journey.
 
-Before pursuing graduate studies, I earned my bachelor's degree from Zhuhai College of Jilin University, working under the supervision of Professor Yanchun Liang ([profile link](https://ieeexplore.ieee.org/author/37401143200)).
+Before pursuing graduate studies, I earned my bachelor's degree from the Jilin University of Zhuhai College, working under the supervision of Professor Yanchun Liang ([profile link](https://ieeexplore.ieee.org/author/37401143200)).
 
 My research focuses on advancing the understanding of visual cognition in the brain and exploring the biological explainability of neural networks. I aim to bridge the gap between artificial intelligence and human cognition, particularly in medical and biological vision. My interests also include applying AI technologies to solve challenges in healthcare and biological sciences.
+
+## Education
+
+| Degree | Institution | Dates | Advisor |
+| ------ | ------------| ------| --------|
+| Ph.D. in Intelligent Informatics | Kochi University of Technology, Japan | Oct. 2021 – Sep. 2024 | Prof. Shinichi Yoshida |
+| M.E. in Intelligent Informatics | Kochi University of Technology, Japan | Oct. 2019 – Sep. 2021 | Prof. Shinichi Yoshida |
+| B.E. in Network Engineering | Jilin University of Zhuhai College, China | Sep. 2015 – Jul. 2019 | Prof. Yanchun Liang |
 
 
 ## Research Interests
