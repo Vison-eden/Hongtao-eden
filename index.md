@@ -21,19 +21,19 @@ My research focuses on advancing the understanding of visual cognition in the br
     </thead>
     <tbody>
       <tr>
-        <td>Ph.D. in Intelligent Informatics</td>
+        <td>**Ph.D.** in Intelligent Informatics</td>
         <td>Kochi University of Technology, Japan</td>
-        <td>Oct. 2021 – Sep. 2024</td>
+        <td>Oct. 2021 | Sep. 2024</td>
       </tr>
       <tr>
-        <td>M.E. in Intelligent Informatics</td>
+        <td>**M.E.** in Intelligent Informatics</td>
         <td>Kochi University of Technology, Japan</td>
-        <td>Oct. 2019 – Sep. 2021</td>
+        <td>Oct. 2019 | Sep. 2021</td>
       </tr>
       <tr>
-        <td>B.E. in Network Engineering</td>
+        <td>**B.E.** in Network Engineering</td>
         <td>Jilin University of Zhuhai College, China</td>
-        <td>Sep. 2015 – Jul. 2019</td>
+        <td>Sep. 2015 | Jul. 2019</td>
       </tr>
     </tbody>
   </table>
