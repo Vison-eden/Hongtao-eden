@@ -1,5 +1,3 @@
-layout: homepage
----
 ## About Me
 I am a Ph.D. graduate from the Intelligent Informatics Laboratory at Kochi University of Technology, where I completed my master's and doctoral studies under the guidance of Professor Shinichi Yoshida ([profile link](https://www.kochi-tech.ac.jp/profile/en/yoshida-shinichi.html)). I was awarded the Special Scholarship Program (SSP) for doctoral study during my academic journey.
 Before pursuing graduate studies, I earned my bachelor's degree from the Jilin University of Zhuhai College, working under the supervision of Professor Yanchun Liang ([profile link](https://ieeexplore.ieee.org/author/37401143200)).
