@@ -23,7 +23,7 @@ My research focuses on advancing the understanding of visual cognition in the br
       <tr>
         <td>Ph.D. in Intelligent Informatics</td>
         <td>Kochi University of Technology, Japan</td>
-        <td>Oct. 2021      | Sep. 2024 |</td>
+        <td>Oct. 2021 -----| Sep. 2024 -----|</td>
       </tr>
       <tr>
         <td>M.E. in Intelligent Informatics</td>
