@@ -10,34 +10,12 @@ Before pursuing graduate studies, I earned my bachelor's degree from the Jilin U
 
 My research focuses on advancing the understanding of visual cognition in the brain and exploring the biological explainability of neural networks. I aim to bridge the gap between artificial intelligence and human cognition, particularly in medical and biological vision. My interests also include applying AI technologies to solve challenges in healthcare and biological sciences.
 
-<div class="education-section">
-  <table class="education-table">
-    <thead>
-      <tr>
-        <th>Degree</th>
-        <th>Institution</th>
-        <th>Dates</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Ph.D. in Intelligent Informatics</td>
-        <td>Kochi University of Technology, Japan</td>
-        <td>Oct. 2021 -----| Sep. 2024 -----|</td>
-      </tr>
-      <tr>
-        <td>M.E. in Intelligent Informatics</td>
-        <td>Kochi University of Technology, Japan</td>
-        <td>Oct. 2019 | Sep. 2021</td>
-      </tr>
-      <tr>
-        <td>B.E. in Network Engineering</td>
-        <td>Jilin University of Zhuhai College, China</td>
-        <td>Sep. 2015 | Jul. 2019</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+## Education
+| Degree | Institution | Dates |
+| ------ | ------------| ------|
+| **Ph.D.** in Intelligent Informatics | Kochi University of Technology, Japan | Oct. 2021 – Sep. 2024 |
+| **M.E.** in Intelligent Informatics | Kochi University of Technology, Japan | Oct. 2019 – Sep. 2021 |
+| **B.E.** in Network Engineering | Jilin University of Zhuhai College, China | Sep. 2015 – Jul. 2019 |
 
 ## Research Interests
 
