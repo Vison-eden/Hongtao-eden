@@ -27,13 +27,17 @@ My research focuses on advancing the understanding of visual cognition in the br
 - [Feb. 2024] Paper was accepted by PLOS ONE. 
 - [Oct. 2023] We attended the IEEE SMC2023 Conference in Hawaii.
 - [Jun. 2022] Best paper award by ISCIIA2022 in Beijing.
+
 {% include_relative _includes/publications.md %}
+
 {% include_relative _includes/services.md %}
+
 {% include_relative _includes/current.md %}
+
 <style>
   body {
     position: relative;
-    min-height: 100vh; /* Ensure the body takes at least the full height of the viewport /
+    min-height: 100vh; /* Ensure the body takes at least the full height of the viewport */
   }
   #clustrmaps-container {
     position: relative;
@@ -43,16 +47,11 @@ My research focuses on advancing the understanding of visual cognition in the br
     bottom: -100px;
     right: -200px;
     z-index: 1000;
-    width: 250px; / Adjust width as necessary /
-    height: 250px; / Adjust height as necessary */
+    width: 250px; /* Adjust width as necessary */
+    height: 250px; /* Adjust height as necessary */
   }
   #clustrmaps-widget iframe {
     width: 100%;
     height: 100%;
   }
 </style>
-<div id="clustrmaps-container">
-  <div id="clustrmaps-widget">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=bjzM2SBx-uJ0fKBQm6uBVaV17FQYGmOHUCxaIbTpSlc"></script>
-  </div>
-</div>
