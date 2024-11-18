@@ -84,8 +84,47 @@
     .to-top:hover {
       background-color: #1a6a8f;
     }
+
+    .education-section {
+      width: 100%;
+      margin: 20px 0;
+      overflow-x: auto;
+    }
     
-  </style>
+    .education-table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed;
+      min-width: 800px;  /* 确保最小宽度 */
+    }
+    
+    .education-table th,
+    .education-table td {
+      padding: 15px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+      vertical-align: top;
+      line-height: 1.4;
+    }
+    
+    .education-table th {
+      font-weight: bold;
+      color: #24292e;
+    }
+    
+    .education-table th:nth-child(1) {
+      width: 30%;
+    }
+    
+    .education-table th:nth-child(2) {
+      width: 40%;
+    }
+    
+    .education-table th:nth-child(3) {
+      width: 30%;
+    }
+    </style>
+
 </head>
 <body>
   <div class="mo">
