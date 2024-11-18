@@ -12,7 +12,7 @@ My research focuses on advancing the understanding of visual cognition in the br
 
 ## Education
 | Degree | Institution | Dates |
-| ------ | ------------| ---|
+| ------ | ------------| ------|
 | **Ph.D.** in Intelligent Informatics | Kochi University of Technology, Japan | Oct. 2021 – Sep. 2024 |
 | **M.E.** in Intelligent Informatics | Kochi University of Technology, Japan | Oct. 2019 – Sep. 2021 |
 | **B.E.** in Network Engineering | Jilin University of Zhuhai College, China | Sep. 2015 – Jul. 2019 |
