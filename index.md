@@ -14,9 +14,9 @@ My research focuses on advancing the understanding of visual cognition in the br
 
 | Degree | Institution | Dates |
 | ------ | ------------| ------|
-| **Ph.D.** in Intelligent Informatics | Kochi University of Technology, Japan | Oct.2021-Sep.2024 |
-| **M.E.** in Intelligent Informatics | Kochi University of Technology, Japan | Oct.2019-Sep.2021 |
-| **B.E.** in Network Engineering | Jilin University of Zhuhai College, China | Sep.2015-Jul.2019 |
+| **Ph.D.** in Intelligent Informatics | Kochi University of Technology, Japan | Oct.2021 _Sep.2024 |
+| **M.E.** in Intelligent Informatics | Kochi University of Technology, Japan | Oct.2019 _Sep.2021 |
+| **B.E.** in Network Engineering | Jilin University of Zhuhai College, China | Sep.2015 _Jul.2019 |
 
 ## Research Interests
 
@@ -24,7 +24,6 @@ My research focuses on advancing the understanding of visual cognition in the br
 - **Experimental Psychology:** Optical Illusion, Visual Illusion
 - **Neuroscience:** MRI, fMRI, Ventral Pathway
 - **AI healthcare:** Medical Multimodal Model, Brain Disease Diagnosis, Healthcare
-
 
 ## News
 - **[Oct. 2024]** Paper was accepted by IEEE Access.
