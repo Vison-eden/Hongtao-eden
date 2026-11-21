@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hongtao Zhang | Medical Imaging &amp; Multimodal AI</title>
+  <meta name="description" content="Hongtao Zhang studies multimodal learning for medical imaging at the Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.">
+  <link rel="canonical" href="https://vison-eden.github.io/Hongtao-eden/">
+  <link rel="icon" href="assets/img/zht.png">
+  <link rel="stylesheet" href="assets/css/research-profile.css">
+  {% assign ga4_id = page.ga4_id | default: "" | strip %}
+  {% assign prefix = ga4_id | slice: 0, 2 %}
+  {% if prefix == "G-" %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ ga4_id | escape }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ window.dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', {{ ga4_id | jsonify }});
+  </script>
+  {% endif %}
+</head>
+<body id="top">
+<a class="skip" href="#main-content">Skip to content</a>
+<div class="page">
+  <header class="mast">
+    <a href="#top">Hongtao Zhang</a>
+    <nav aria-label="Main navigation"><a href="#publications">Publications</a><a href="#research">Projects</a><a href="#education">Education</a></nav>
+  </header>
+  {{ content }}
+  <footer><a href="mailto:edenzht@gmail.com">edenzht@gmail.com</a> · <a href="https://www.researchgate.net/profile/Hongtao-Zhang-33">ResearchGate</a></footer>
+</div>
+</body>
+</html>

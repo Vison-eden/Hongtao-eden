@@ -1,70 +1,61 @@
 ---
-layout: homepage
+layout: research-profile
+permalink: /
+ga4_id: ""
 ---
 
-## About Me
-
-Hi, here is Eden. It's good to see you. Now I'm a Postdoc researcher at the Chinese Academy of Science.
-
-As for me, I was a Ph.D. graduate from the Intelligent Informatics Laboratory at Kochi University of Technology, where I completed my master's and doctoral studies under the guidance of Professor Shinichi Yoshida ([profile link](https://www.kochi-tech.ac.jp/profile/en/yoshida-shinichi.html)). I was awarded the Special Scholarship Program (SSP) for doctoral study during my academic journey.
-
-Before pursuing graduate studies, I earned my bachelor's degree from the Jilin University of Zhuhai College, working under the supervision of Professor Yanchun Liang ([profile link](https://ieeexplore.ieee.org/author/37401143200)).
-
-My research focuses on advancing the understanding of visual cognition in the brain and exploring the biological explainability of neural networks. I aim to bridge the gap between artificial intelligence and human cognition, particularly in medical and biological vision. My interests also include applying AI technologies to solve challenges in healthcare and biological sciences.
-
-## Education
-
-| Degree | Institution | Dates |
-| ------ | ------------| ------|
-| **Ph.D.** in Intelligent Informatics | Kochi University of Technology, Japan | Oct.2021~Sep.2024 |
-| **M.E.** in Intelligent Informatics | Kochi University of Technology, Japan | Oct.2019~Sep.2021 |
-| **B.E.** in Network Engineering | Jilin University of Zhuhai College, China | Sep.2015~Jul.2019 |
-
-## Research Interests
-
-- **Computer Vision:** Image Recognition, Super-Resolution, Deep Neural Networks
-- **Experimental Psychology:** Optical Illusion, Visual Illusion
-- **Neuroscience:** MRI, fMRI, Ventral Pathway
-- **AI healthcare:** Medical Multimodal Model, Brain Disease Diagnosis, Healthcare
-
-## News
-- **[Oct. 2024]** Paper was accepted by IEEE Access.
-- **[Aug. 2024]** Paper was accepted by ICONIP2024 Conference.
-- **[Mar. 2024]** Paper was accepted by Applied Science.
-- **[Feb. 2024]** Paper was accepted by PLOS ONE. 
-- **[Oct. 2023]** We attended the IEEE SMC2023 Conference in Hawaii.
-- **[Jun. 2022]** Best paper award by ISCIIA2022 in Beijing.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
-
-{% include_relative _includes/current.md %}
-
-<style>
-  body {
-    position: relative;
-    min-height: 100vh; /* Ensure the body takes at least the full height of the viewport */
-  }
-  #clustrmaps-container {
-    position: relative;
-  }
-  #clustrmaps-widget {
-    position: absolute;
-    bottom: -100px;
-    right: -200px;
-    z-index: 1000;
-    width: 250px; /* Adjust width as necessary */
-    height: 250px; /* Adjust height as necessary */
-  }
-  #clustrmaps-widget iframe {
-    width: 100%;
-    height: 100%;
-  }
-</style>
-
-<div id="clustrmaps-container">
-  <div id="clustrmaps-widget">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=bjzM2SBx-uJ0fKBQm6uBVaV17FQYGmOHUCxaIbTpSlc"></script>
-  </div>
-</div>
+{::nomarkdown}
+  <main id="main-content">
+    <section class="intro" aria-labelledby="name">
+      <div class="identity">
+        <div class="portrait-frame"><span aria-hidden="true">HZ</span><img class="portrait" src="assets/img/eden.jpg" width="96" height="96" alt="Hongtao Zhang" onerror="this.hidden=true;this.style.display='none'"></div>
+        <div>
+          <h1 id="name">Hongtao Zhang</h1>
+          <p class="role">Postdoctoral Researcher</p>
+          <p class="affiliation">Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences</p>
+        </div>
+      </div>
+      <p class="bio">I study how CT images, radiologists’ observations, and pathology can be used together to assess lung nodules. My earlier work used visual illusions to examine how neural networks represent what people see.</p>
+      <div class="links">
+        <a href="assets/files/cv.pdf">CV (PDF)</a>
+        <a href="https://scholar.google.com/citations?user=jQvs2JIAAAAJ">Google Scholar</a>
+        <a href="https://github.com/Vison-eden">GitHub</a>
+        <a href="mailto:edenzht@gmail.com">Email</a>
+      </div>
+    </section>
+    <section class="group" id="publications" aria-labelledby="pub-title">
+      <h2 id="pub-title">Publications</h2>
+      <ul class="pubs">
+        <li class="paper-with-thumb">
+          <span class="year">2026</span>
+          <div>
+            <a href="https://doi.org/10.1038/s41746-026-03062-x">Multimodal deep learning for preoperative invasiveness stratification of lung adenocarcinoma spectrum nodules</a>
+            <span class="credit">Hongtao Zhang et al. · npj Digital Medicine · <a href="https://github.com/Vison-eden/ct-mm">Code</a></span>
+          </div>
+          <a class="paper-thumb" href="https://doi.org/10.1038/s41746-026-03062-x" aria-label="View the paper containing Figure 5B">
+            <img src="assets/img/npj-model-workflow.png" width="611" height="248" alt="Figure 5B. CT patch and radiological features enter separate encoders before fusion and classification.">
+          </a>
+        </li>
+        <li><span class="year">2024</span><div><a href="https://doi.org/10.1109/ACCESS.2024.3475478">Assessing brain-like characteristics of DNNs with spatiotemporal features: a study based on the Müller-Lyer illusion</a><span class="credit">Hongtao Zhang, Kiminori Matsuzaki, Shinichi Yoshida · IEEE Access</span></div></li>
+        <li><span class="year">2024</span><div><a href="https://doi.org/10.3390/app14083429">Exploring deep neural networks in simulating human vision through five optical illusions</a><span class="credit">Hongtao Zhang, Shinichi Yoshida · Applied Sciences</span></div></li>
+        <li><span class="year">2024</span><div><a href="https://doi.org/10.1371/journal.pone.0299083">Brain-like illusion produced by Skye’s Oblique Grating in deep neural networks</a><span class="credit">Hongtao Zhang, Shinichi Yoshida, Zhen Li · PLOS ONE</span></div></li>
+        <li><span class="year">2021</span><div><a href="https://doi.org/10.3390/s21092978">3D MRI reconstruction based on 2D generative adversarial network super-resolution</a><span class="credit">Hongtao Zhang, Yuki Shinomiya, Shinichi Yoshida · Sensors</span></div></li>
+      </ul>
+    </section>
+    <section class="group" id="research" aria-labelledby="ongoing-title">
+      <h2 id="ongoing-title">Current projects</h2>
+      <div class="lines">
+        <article><h3>Imaging and pathology</h3><p>I am studying how CT findings and digitized tissue slides can be combined to characterize invasive lung adenocarcinoma.</p></article>
+        <article><h3>Pediatric brain MRI</h3><p>I am investigating how MRI and clinical information relate to motor status in infants with external hydrocephalus across hospitals.</p></article>
+      </div>
+    </section>
+    <section class="group" id="education" aria-labelledby="edu-title">
+      <h2 id="edu-title">Education</h2>
+      <ul class="degrees">
+        <li><span class="year">2024</span><div>Ph.D. in Intelligent Informatics<span class="credit">Kochi University of Technology, Japan · Special Scholarship Program</span></div></li>
+        <li><span class="year">2021</span><div>M.E. in Intelligent Informatics<span class="credit">Kochi University of Technology, Japan</span></div></li>
+        <li><span class="year">2019</span><div>B.E. in Network Engineering<span class="credit">Jilin University of Zhuhai College, China</span></div></li>
+      </ul>
+    </section>
+  </main>
+{:/nomarkdown}
