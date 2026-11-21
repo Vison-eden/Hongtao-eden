@@ -1,11 +1,40 @@
 ---
-layout: research-profile
+layout: null
 permalink: /
 ga4_id: ""
 ---
 
 {::nomarkdown}
-  <main id="main-content">
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hongtao Zhang | Computer Vision and Medical Imaging</title>
+  <meta name="description" content="Hongtao Zhang is a postdoctoral researcher at the Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences. Biography, publications, and education.">
+  <link rel="canonical" href="https://vison-eden.github.io/Hongtao-eden/">
+  <link rel="icon" href="assets/img/zht.png">
+  <link rel="stylesheet" href="assets/css/research-profile.css">
+  {% assign ga4_id = page.ga4_id | default: site.ga4_id | default: site.google_analytics | default: "" | strip %}
+  {% assign prefix = ga4_id | slice: 0, 2 %}
+  {% if prefix == "G-" %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ ga4_id | escape }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ window.dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', {{ ga4_id | jsonify }});
+  </script>
+  {% endif %}
+</head>
+<body id="top">
+<a class="skip" href="#main-content">Skip to content</a>
+<div class="page">
+  <header class="mast">
+    <a href="#top">Hongtao Zhang</a>
+    <nav aria-label="Main navigation"><a href="#publications">Publications</a><a href="#education">Education</a></nav>
+  </header>
+    <main id="main-content">
     <section class="intro" aria-labelledby="name">
       <div class="identity">
         <div class="portrait-frame"><span aria-hidden="true">HZ</span><img class="portrait" src="assets/img/eden.jpg" width="96" height="96" alt="Hongtao Zhang" onerror="this.hidden=true;this.style.display='none'"></div>
@@ -15,7 +44,8 @@ ga4_id: ""
           <p class="affiliation">Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences</p>
         </div>
       </div>
-      <p class="bio">I study how CT images, radiologists’ observations, and pathology can be used together to assess lung nodules. My earlier work used visual illusions to examine how neural networks represent what people see.</p>
+      <p class="bio">I earned my master’s and doctoral degrees in Intelligent Informatics at Kochi University of Technology in Japan, where I worked with <a href="https://www.kochi-tech.ac.jp/profile/en/yoshida-shinichi.html">Professor Shinichi Yoshida</a>. My doctoral studies were supported by the university’s Special Scholarship Program. Before moving to Japan, I studied network engineering at Jilin University of Zhuhai College under the supervision of <a href="https://ieeexplore.ieee.org/author/37401143200">Professor Yanchun Liang</a>.</p>
+      <p class="bio">My research interests include visual cognition, computer vision, and medical imaging. I am particularly interested in what comparisons between human vision and neural networks can tell us about how we perceive images.</p>
       <div class="links">
         <a href="assets/files/cv.pdf">CV (PDF)</a>
         <a href="https://scholar.google.com/citations?user=jQvs2JIAAAAJ">Google Scholar</a>
@@ -42,13 +72,6 @@ ga4_id: ""
         <li><span class="year">2021</span><div><a href="https://doi.org/10.3390/s21092978">3D MRI reconstruction based on 2D generative adversarial network super-resolution</a><span class="credit">Hongtao Zhang, Yuki Shinomiya, Shinichi Yoshida · Sensors</span></div></li>
       </ul>
     </section>
-    <section class="group" id="research" aria-labelledby="ongoing-title">
-      <h2 id="ongoing-title">Current projects</h2>
-      <div class="lines">
-        <article><h3>Imaging and pathology</h3><p>I am studying how CT findings and digitized tissue slides can be combined to characterize invasive lung adenocarcinoma.</p></article>
-        <article><h3>Pediatric brain MRI</h3><p>I am investigating how MRI and clinical information relate to motor status in infants with external hydrocephalus across hospitals.</p></article>
-      </div>
-    </section>
     <section class="group" id="education" aria-labelledby="edu-title">
       <h2 id="edu-title">Education</h2>
       <ul class="degrees">
@@ -58,4 +81,8 @@ ga4_id: ""
       </ul>
     </section>
   </main>
+  <footer><a href="mailto:edenzht@gmail.com">edenzht@gmail.com</a> · <a href="https://www.researchgate.net/profile/Hongtao-Zhang-33">ResearchGate</a></footer>
+</div>
+</body>
+</html>
 {:/nomarkdown}
