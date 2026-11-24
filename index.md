@@ -83,6 +83,20 @@ ga4_id: ""
   </main>
   <footer><a href="mailto:edenzht@gmail.com">edenzht@gmail.com</a> · <a href="https://www.researchgate.net/profile/Hongtao-Zhang-33">ResearchGate</a></footer>
 </div>
+<!-- Default Statcounter code for personal page
+https://vison-eden.github.io/Hongtao-eden/ -->
+<script type="text/javascript">
+var sc_project=13369551;
+var sc_invisible=1;
+var sc_security="f461803e";
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/13369551/0/f461803e/1/" alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
 </body>
 </html>
 {:/nomarkdown}
